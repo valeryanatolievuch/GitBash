@@ -25,44 +25,44 @@ Linux terminal (GitBash) commands
 8. Вывести список содержимого папки 
    ls -la
 
-9. + Открыть любой txt файл 
+9. Открыть любой txt файл 
    vim file1.txt
 
-10.+ написать туда что-нибудь, любой текст 
-   cat >>file1.txt
-   one
-   two
-   three
+10. Написать туда что-нибудь, любой текст 
+    cat >>file1.txt
+    one
+    two
+    three
 
-11.+ сохранить и выйти 
-   Esc + :wq
+11. Сохранить и выйти 
+    Esc + :wq
 
-12.Выйти из папки на уровень выше 
-   cd ..
+12. Выйти из папки на уровень выше 
+    cd ..
 
-13.Переместить любые 2 файла, которые вы создали, в любую другую папку 
-   mv papka3/file1.txt papka3/file2.txt papka1
+13. Переместить любые 2 файла, которые вы создали, в любую другую папку 
+    mv papka3/file1.txt papka3/file2.txt papka1
 
-14.Cкопировать любые 2 файла, которые вы создали, в любую другую папку 
-   cp papka1/file1.txt papka3/file2.txt papka3
+14. Cкопировать любые 2 файла, которые вы создали, в любую другую папку 
+    cp papka1/file1.txt papka3/file2.txt papka3
 
-15.Найти файл по имени 
-   find . -name file1.txt
+15. Найти файл по имени 
+    find . -name file1.txt
 
-16.Просмотреть содержимое в реальном времени (команда grep) 
-   grep line file3.txt
+16. Просмотреть содержимое в реальном времени (команда grep) 
+    grep line file3.txt
 
-17.Вывести несколько первых строк из текстового файла 
-   head -2 C:/Users/Cherv/git/course/Linux_commands/one_papka/file1.txt
+17. Вывести несколько первых строк из текстового файла 
+    head -2 C:/Users/Cherv/git/course/Linux_commands/one_papka/file1.txt
 
-18.Вывести несколько последних строк из текстового файла 
-   tail -2 C:/Users/Cherv/git/course/Linux_commands/one_papka/file1.txt
+18. Вывести несколько последних строк из текстового файла 
+    tail -2 C:/Users/Cherv/git/course/Linux_commands/one_papka/file1.txt
 
-19.Просмотреть содержимое длинного файла (команда less) изучите как она работает
-   less C:/Users/Cherv/git/course/Linux_commands/one_papka/file1.txt
+19. Просмотреть содержимое длинного файла (команда less) изучите как она работает
+    less C:/Users/Cherv/git/course/Linux_commands/one_papka/file1.txt
 
-20.Вывести дату и время
-   date
+20. Вывести дату и время
+    date
 
 
 Задание №2
