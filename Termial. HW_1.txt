@@ -1,32 +1,32 @@
 HW_1. The first part
 Linux terminal (GitBash) commands
 
-1. Посмотреть где я 
-   pwd
+1.  Посмотреть где я 
+    pwd
 
-2. Создать папку 
-   mkdir papka
+2.  Создать папку 
+    mkdir papka
 
-3. Зайти в папку 
-   cd papka
+3.  Зайти в папку 
+    cd papka
 
-4. Создать 3 папки 
-   mkdir papka1 papka2 papka3
+4.  Создать 3 папки 
+    mkdir papka1 papka2 papka3
 
-5. Зайти в любоую папку 
-   cd papka3
+5.  Зайти в любоую папку 
+    cd papka3
 
-6. Создать 5 файлов (3 txt, 2 json) 
-   touch file1.txt file2.txt file3.txt file4.json file5.json
+6.  Создать 5 файлов (3 txt, 2 json) 
+    touch file1.txt file2.txt file3.txt file4.json file5.json
 
-7. Создать 3 папки 
-   mkdir papka01 papka02 papka03
+7.  Создать 3 папки 
+    mkdir papka01 papka02 papka03
 
-8. Вывести список содержимого папки 
-   ls -la
+8.  Вывести список содержимого папки 
+    ls -la
 
-9. Открыть любой txt файл 
-   vim file1.txt
+9.  Открыть любой txt файл 
+    vim file1.txt
 
 10. Написать туда что-нибудь, любой текст 
     cat >>file1.txt
