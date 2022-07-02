@@ -1,4 +1,3 @@
-HW_1. The first part
 Linux terminal (GitBash) commands
 
 1.  Посмотреть где я 
@@ -65,16 +64,14 @@ Linux terminal (GitBash) commands
     date
 
 
-Задание №2
-   Отправить http запрос на сервер.
+21. Отправить http запрос на сервер.
 
 curl 'http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000'
 
 {"age":"32","family":{"children":[["Alex",24],["Kate",12]],"pets":{"cat":{"age":3,"name":"Sunny"},"dog":{"age":4,"name":"Luky"}},"u_salary_1_5_year":4000},"name":"Vadim","salary":1000}
 
 
-Задание №3
-   Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+22. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
 Файл    dz_Linux2.sh
 Комманда    ./dz_Linux2.sh

@@ -1,4 +1,5 @@
-Termial. HW_2
+Termial
+
 1. Сделать папку dir_1 
     $ mkdir dir_1
 
@@ -35,23 +36,23 @@ Termial. HW_2
 
 9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”
     $ cat >>tf_3.txt
-the second 2
+    the second 2
 
 10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”
     $ cat >>tf_3.txt
-the sec 2
+    the sec 2
 
 11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”
     $ cat>>tf_2.txt
-the sec 3
+    the sec 3
 
 12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”
     $ cat >>tf_3.txt
-the SeCoNd 2
+    the SeCoNd 2
 
 13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”
     $ cat>>tf_2.txt
-the seConD 2
+    the seConD 2
 
 14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.
     $ cat>>tf_4.txt, набираем нужный текст, ctrl+c
